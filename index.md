@@ -1,10 +1,9 @@
-## Bienvenido a la página de la materia Comportamiento Organizacioal
+# Bienvenido a la página de la materia Comportamiento Organizacioal
 
-La comunicación organizacional es uno de los pilares más importantes para garantizar un entendimiento claro de los objetivos de una organización y las estrategias para alcanzarlo.
+La comunicación organizacional se centra en gran medida en la construcción de relaciones y la interacción con los miembros internos de la organización y los públicos externos interesados. Sirve en gran medida para la gestión de la organización y la integración de sus distintos elementos, teniendo así un impacto en la productividad y la calidad.
 
-Sin embargo, muchas empresas suelen no dar la importancia debida a la comunicación con los empleados, dando paso a un sistema de comunicación ineficaz que conlleva a la pérdida de tiempo, recursos, productividad y finalmente, ganancias.
+``Incluye tanto la comunicación al interior de la organización como la comunicación hacia el público externo.``
 
-Conoce aquí de qué se trata y por qué debes en tu organización para llevarla a la consecución de tus objetivos de forma exitosa.
 
 <script src="https://www.gstatic.com/dialogflow-console/fast/messenger/bootstrap.js?v=1"></script>
 <df-messenger
